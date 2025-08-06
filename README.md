@@ -1,2 +1,2 @@
 # mta-sts
-MTA-STS policy for millionaire.email
+MTA-STS policy for billionaires.me
